@@ -23,12 +23,15 @@ The name **Atomic Blend** is inspired by the book *Atomic Habits* by James Clear
 ✅ **Offline Mode** – Work even without an internet connection.  *(WIP)*
 ✅ **Open API & Extensions** – Extend functionality with plugins and integrations.  *(TODO)*
 
+## 🗺️ Roadmap
+
+The roadmap is defined in a [dedicated repository](https://github.com/atomic-blend/roadmap) and a [GitHub Project](https://github.com/orgs/atomic-blend/projects/2) is available to have a more visual overview.
+
 ## 🔄 Project Status
 
-🚧 Current State: Atomic Blend is in the Proof of Concept (PoC) stage, focusing on task management with encryption.
+🚧 Current State: Atomic Blend is in it's initial phase, focusing on task management and notes with encryption.
 🔐 Encryption: Everything in the system has the potential to be fully encrypted. Currently, tasks are encrypted, and the encryption model is being expanded.
 💾 Backend Role: The backend will evolve into a real-time storage engine for syncing and collaboration, ensuring data security without direct access to user content.
-🔄 Upcoming Improvements: The encryption approach requires some rewrites, transitioning from RSA to Elliptic Curve Cryptography (ECC) to be quantum-resistant.
 
 ## 🤝 How to Contribute
 We welcome contributions from everyone! Here’s how you can help:
